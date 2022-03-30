@@ -1,5 +1,4 @@
 ![Python-the-best-programming-language](https://user-images.githubusercontent.com/77085208/160748383-f0405107-15a0-44ba-b24c-c29951f48b40.jpg)
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -7,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertgoodman08&label=Profile%20views&color=0e75b6&style=flat" alt="robertgoodman08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertgoodman08" alt="robertgoodman08" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://silly-noether-836b70.netlify.app/](https://silly-noether-836b70.netlify.app/)
 
