@@ -28,9 +28,3 @@
 <p align="left"> - Git, Github, BitBucket, Docker, IDE JetBrains, Radis, RabbitMQ, Selenium, Nginx and so on </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertgoodman08&show_icons=true&locale=en" alt="robertgoodman08" /></p>
-
-
-
-### Most Used Langauges    
-    
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=robertgoodman08&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="196px">
