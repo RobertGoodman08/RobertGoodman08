@@ -9,6 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://silly-noether-836b70.netlify.app/](https://silly-noether-836b70.netlify.app/)
 
 - 📫 How to reach me **robertdjango23@gmail.com**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertgoodman08&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
   
 
 <h3 align="left">Connect with me:</h3>
