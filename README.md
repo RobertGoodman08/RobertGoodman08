@@ -22,7 +22,7 @@
 <p align="left"> - I'm a full-stack developer for large projects and ready to start your project anytime. </p>
 <p align="left"> - Enterprise application development and support </p>
 <p align="left"> - <b>Front-end</b> : HTML | CSS | JavaScript | React | Bootstrap </p>
-<p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | PHP | Laravel | Сelery | SQLAlchemy  </p>
+<p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | PHP | Laravel | Сelery | SQLAlchemy | FastAPI | GraphQL  </p>
 <p align="left"> - <b>Database</b> : PostgreSQL | MySQL | PostgreSQL | Firebase | SQLite </p>
 <p align="left"> - <b>CMS</b> : Wordpress | OpenCart </p>
 <p align="left"> - <b>OS</b> : Windows | Linux </p>
