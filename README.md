@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> - I'm a full-stack developer for large projects and ready to start your project anytime. </p>
+<p align="left"> - I'm a backend developer for large projects and ready to start your project anytime. </p>
 <p align="left"> - Enterprise application development and support </p>
 <p align="left"> - <b>Front-end</b> : HTML | CSS | JavaScript | React | Bootstrap </p>
 <p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | PHP | Laravel | Сelery | SQLAlchemy | FastAPI | GraphQL  </p>
