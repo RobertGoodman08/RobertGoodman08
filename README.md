@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> - I'm a backend developer for large projects and ready to start your project anytime. </p>
+<p align="left"> - You can write to me, I will reply within 48 hours. I can help you Web and open source development. </p>
 <p align="left"> - <b>Front-end</b> : HTML | CSS | JavaScript | React | Bootstrap </p>
 <p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | PHP | Laravel | Сelery | SQLAlchemy | FastAPI | GraphQL  </p>
 <p align="left"> - <b>Database</b> : PostgreSQL | MySQL | PostgreSQL | Firebase | SQLite </p>
