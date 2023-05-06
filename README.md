@@ -25,6 +25,6 @@
 <p align="left"> - <b>Database</b> : PostgreSQL | MySQL | PostgreSQL | Firebase | SQLite </p>
 <p align="left"> - <b>CMS</b> : Wordpress | OpenCart </p>
 <p align="left"> - <b>OS</b> : Windows | Linux </p>
-<p align="left"> - Git, Github, BitBucket, Docker, IDE JetBrains, Radis, RabbitMQ, Selenium, Nginx and so on </p>
+<p align="left"> - Git, Github, BitBucket, Docker, IDE JetBrains, Radis, RabbitMQ, Selenium, Nginx, Beautiful Soup, Selenium and so on </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertgoodman08&show_icons=true&locale=en" alt="robertgoodman08" /></p>
