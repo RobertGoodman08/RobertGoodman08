@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> - <b>Front-end</b> : HTML | CSS | JavaScript | React | Redux | Bootstrap  </p>
 <p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | Golang | Gin | GORM | PHP | Laravel | Сelery | SQLAlchemy | FastAPI | GraphQL | Alembic  </p>
-<p align="left"> - <b>Database</b> : PostgreSQL | MySQL | Firebase | SQLite | MariaDB, MongoDB </p>
+<p align="left"> - <b>Database</b> : PostgreSQL | MySQL | Firebase | SQLite | MariaDB | MongoDB </p>
 <p align="left"> - <b>OS</b> : Windows | Linux | FreeBSD </p>
 <p align="left"> - Git, Github, BitBucket, Docker, IDE JetBrains, Radis, RabbitMQ, Selenium, Nginx, Beautiful Soup and so on </p>
 
