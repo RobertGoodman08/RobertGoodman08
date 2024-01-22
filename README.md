@@ -19,9 +19,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> - <b>Front-end</b> : HTML | CSS | JavaScript | React | Redux | Bootstrap  </p>
-<p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | Golang | Gin | GORM | PHP | Laravel | Сelery | SQLAlchemy | FastAPI | GraphQL | Alembic | gRPC  </p>
+<p align="left"> - <b>Front-end</b> : HTML | CSS | SASS | JavaScript | React | Redux | Bootstrap  </p>
+<p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | Golang | Gin | GORM | PHP | Laravel | Сelery | SQLAlchemy | FastAPI | GraphQL | Alembic | gRPC | WebSocket   </p>
 <p align="left"> - <b>Database</b> : PostgreSQL | MySQL | Firebase | SQLite | MariaDB | MongoDB | Clickhouse </p>
 <p align="left"> - <b>OS</b> : Windows | Linux | FreeBSD </p>
-<p align="left"> - Git, Github, BitBucket, Docker, IDE JetBrains, Radis, RabbitMQ, Selenium, Nginx, Beautiful Soup, Elasticsearch  and so on </p>
+<p align="left"> - Git, Docker, IDE JetBrains, Radis, RabbitMQ, Selenium, Nginx, Beautiful Soup, Elasticsearch, Kafka, Kubernetes, Portainer, Memcached, CI/CD, AWS, Sentry and so on </p>
 
