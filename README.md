@@ -7,6 +7,11 @@
 
 <div align="right">
   <img src="https://github.com/RobertGoodman08/RobertGoodman08/assets/77085208/b560fb24-e16e-4dfd-986f-a80d0b0b291e" alt="Coding" width="400" >
+
+  <div align="left">
+    <p>asdasdasdsadasdasd</p>
+  </div>
+  
 </div>
 
 - 📫 How to reach me **ni.gurov@mail.ru**
