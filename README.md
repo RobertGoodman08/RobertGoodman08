@@ -8,7 +8,7 @@
 <div align="right">
   <img src="https://github.com/RobertGoodman08/RobertGoodman08/assets/77085208/b560fb24-e16e-4dfd-986f-a80d0b0b291e" alt="Coding" width="400" >
 </div>
-<div align="left">
+
 - 📫 How to reach me **ni.gurov@mail.ru**
 - ![Profile views](https://komarev.com/ghpvc/?username=robertgoodman08&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nikita.g08/" height="30" width="40">
   </a>
 </p>
-</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> - <b>Front-end</b> : HTML | CSS | SASS | JavaScript | React | Redux | Bootstrap  </p>
