@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">Backend Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="![Uploading 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif…]()
-">
+
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/RobertGoodman08/RobertGoodman08/assets/77085208/654d1dab-b5b9-4a2a-81c7-f5b766eae4d1)
 
   
 
