@@ -5,7 +5,7 @@
 <h3 align="center">Backend Developer</h3>
 
 
-<div align="right" alt="Coding" width="400"> 
+<div align="right" alt="Coding" width="400" hegith="400"> 
 
   ![coding](https://github.com/RobertGoodman08/RobertGoodman08/assets/77085208/b560fb24-e16e-4dfd-986f-a80d0b0b291e)
 
