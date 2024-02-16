@@ -2,7 +2,7 @@
 ![Python-the-best-programming-language](https://raw.githubusercontent.com/J2TEAM/J2TEAM/main/dino.gif) 
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">Backend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/RobertGoodman08/RobertGoodman08/assets/77085208/b560fb24-e16e-4dfd-986f-a80d0b0b291e">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
