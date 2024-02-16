@@ -7,7 +7,7 @@
 </div>
 <div align="left" >
   - 📫 How to reach me **ni.gurov@mail.ru**  
-  - ![Profile views](https://komarev.com/ghpvc/?username=robertgoodman08&label=Profile%20views&color=0e75b6&style=flat)
+  -  ![Profile views](https://komarev.com/ghpvc/?username=robertgoodman08&label=Profile%20views&color=0e75b6&style=flat)
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -20,7 +20,6 @@
   </p>
  </div>
  <h3>Languages and Tools: </h3>
- <hr>
 <p align="left"> - <b>Front-end</b> : HTML | CSS | SASS | JavaScript | React | Redux | Bootstrap  </p>
 <p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | Golang | Gin | GORM | PHP | Laravel | Сelery | SQLAlchemy | FastAPI | GraphQL | Alembic | gRPC | WebSocket | Pytest   </p>
 <p align="left"> - <b>Database</b> : PostgreSQL | MySQL | Firebase | SQLite | MariaDB | MongoDB | Clickhouse </p>
