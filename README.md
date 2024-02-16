@@ -6,7 +6,7 @@
   <img src="https://github.com/RobertGoodman08/RobertGoodman08/assets/77085208/b560fb24-e16e-4dfd-986f-a80d0b0b291e" alt="Coding" width="400" >
 </div>
 <div align="left" >
-  - 📫 How to reach me **ni.gurov@mail.ru**
+  - 📫 How to reach me **ni.gurov@mail.ru**  
   - ![Profile views](https://komarev.com/ghpvc/?username=robertgoodman08&label=Profile%20views&color=0e75b6&style=flat)
   
   <h3 align="left">Connect with me:</h3>
