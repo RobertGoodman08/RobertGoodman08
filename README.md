@@ -19,7 +19,7 @@
     </a>
   </p>
  </div>
-<h3 align="left">Languages and Tools:</h3>
+ ## Languages and Tools:
 <p align="left"> - <b>Front-end</b> : HTML | CSS | SASS | JavaScript | React | Redux | Bootstrap  </p>
 <p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | Golang | Gin | GORM | PHP | Laravel | Сelery | SQLAlchemy | FastAPI | GraphQL | Alembic | gRPC | WebSocket | Pytest   </p>
 <p align="left"> - <b>Database</b> : PostgreSQL | MySQL | Firebase | SQLite | MariaDB | MongoDB | Clickhouse </p>
