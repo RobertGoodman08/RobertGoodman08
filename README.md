@@ -19,9 +19,10 @@
     </a>
   </p>
  </div>
- ## Languages and Tools:
-<p align="left"> - <b>Front-end</b> : HTML | CSS | SASS | JavaScript | React | Redux | Bootstrap  </p>
-<p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | Golang | Gin | GORM | PHP | Laravel | Сelery | SQLAlchemy | FastAPI | GraphQL | Alembic | gRPC | WebSocket | Pytest   </p>
-<p align="left"> - <b>Database</b> : PostgreSQL | MySQL | Firebase | SQLite | MariaDB | MongoDB | Clickhouse </p>
-<p align="left"> - <b>OS</b> : Windows | Linux | FreeBSD </p>
-<p align="left"> - Git, Docker, IDE JetBrains, Radis, RabbitMQ, Selenium, Nginx, Beautiful Soup, Elasticsearch, Kafka, Kubernetes, Portainer, Memcached, CI/CD, AWS, Sentry and so on </p>
+## Languages and Tools:
+- **Front-end**: HTML | CSS | SASS | JavaScript | React | Redux | Bootstrap
+- **Back-end**: Python | Django | Flask | Django rest framework | Golang | Gin | GORM | PHP | Laravel | Сelery | SQLAlchemy | FastAPI | GraphQL | Alembic | gRPC | WebSocket | Pytest
+- **Bot**: Telebot | Aiogram | Selenium | InstaPy | Discord.py
+- **Database**: PostgreSQL | MySQL | Firebase | SQLite | MariaDB | MongoDB | Clickhouse
+- **OS**: Windows | Linux | FreeBSD
+- Git, Docker, IDE JetBrains, Radis, RabbitMQ, Selenium, Nginx, Beautiful Soup, Elasticsearch, Kafka, Kubernetes, Portainer, Memcached, CI/CD, AWS, Sentry and so on
