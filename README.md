@@ -5,9 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/RobertGoodman08/RobertGoodman08/assets/77085208/b560fb24-e16e-4dfd-986f-a80d0b0b291e">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=robertgoodman08&label=Profile%20views&color=0e75b6&style=flat" alt="robertgoodman08" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
 
 
