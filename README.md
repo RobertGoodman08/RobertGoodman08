@@ -30,4 +30,4 @@
 <p align="left"> - <b>Bot</b> : Telebot | Aiogram | Selenium | InstaPy | Discord.py </p>
 <p align="left"> - <b>Database</b> : PostgreSQL | MySQL | Firebase | SQLite | MariaDB | MongoDB | Clickhouse </p>
 <p align="left"> - <b>OS</b> : Windows | Linux | FreeBSD </p>
-<p align="left"> - Git, Docker, IDE JetBrains, Radis, RabbitMQ, Selenium, Nginx, Beautiful Soup, Elasticsearch, Kafka, Kubernetes, Portainer, Memcached, CI/CD, AWS, Sentry and so on </p>
+<p align="left"> - Git, Docker, IDE JetBrains, Radis, RabbitMQ, Selenium, Nginx, Beautiful Soup, Elasticsearch, Kafka, Kubernetes, Portainer, Memcached, CI/CD, AWS, Sentry, Grafana and so on </p>
