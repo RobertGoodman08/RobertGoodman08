@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> - <b>Front-end</b> : HTML | CSS | JavaScript | TypeScript | React | Redux | Bootstrap  </p>
-<p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | Golang | Gin | GORM | PHP | Laravel | Сelery | SQLAlchemy | FastAPI | GraphQL | Alembic | gRPC | WebSocket | Pytest   </p>
+<p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | Golang | Gin | GORM | PHP | Laravel | Сelery | SQLAlchemy | Pydantic | FastAPI | GraphQL | Alembic | gRPC | WebSocket | Pytest   </p>
 <p align="left"> - <b>Bot</b> : Telebot | Aiogram | Selenium | InstaPy | Discord.py </p>
 <p align="left"> - <b>Database</b> : PostgreSQL | MySQL | Firebase | SQLite | MariaDB | MongoDB | Clickhouse </p>
 <p align="left"> - <b>OS</b> : Windows | Linux | FreeBSD </p>
