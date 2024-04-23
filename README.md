@@ -1,6 +1,6 @@
 <!-- ![Python-the-best-programming-language](https://user-images.githubusercontent.com/77085208/160748383-f0405107-15a0-44ba-b24c-c29951f48b40.jpg) -->
 ![Python-the-best-programming-language](https://raw.githubusercontent.com/J2TEAM/J2TEAM/main/dino.gif) 
-<h1 align="center">Hi 👋, I'm Nikita</h1>
+<h1 align="center">Hi 👋, I'm Gurov Nikita</h1>
 <h3 align="center">Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/RobertGoodman08/RobertGoodman08/assets/77085208/b560fb24-e16e-4dfd-986f-a80d0b0b291e">
 
