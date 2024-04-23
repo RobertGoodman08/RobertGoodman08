@@ -12,6 +12,7 @@
 
 
 - 📫 How to reach me **ni.gurov@mail.ru**
+-  I accept proposals for participation in open source projects, as well as willing to accept job offers.
 
 
 
