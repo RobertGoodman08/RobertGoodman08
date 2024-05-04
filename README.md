@@ -29,7 +29,7 @@
 <p align="left"> - <b>Front-end</b> : HTML | CSS | JavaScript | TypeScript | React | Redux | Bootstrap  </p>
 <p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | Golang | Gin | GORM | PHP | Laravel | Сelery | SQLAlchemy | Pydantic | FastAPI | GraphQL | Alembic | gRPC | WebSocket | Pytest   </p>
 <p align="left"> - <b>Bot</b> : Telebot | Aiogram | Selenium | InstaPy | Discord.py </p>
-<p align="left"> - <b>Data analysis</b> : Python | R </p>
+<p align="left"> - <b>Data analysis</b> : Python | NumPy | Pandas | Matplotlib | SymPy | Anaconda | R </p>
 <p align="left"> - <b>Database</b> : PostgreSQL | MySQL | Firebase | SQLite | MariaDB | MongoDB | Clickhouse | Elasticsearch </p>
 <p align="left"> - <b>OS</b> : Windows | Linux | FreeBSD </p>
-<p align="left"> - Git, Git Flow, Docker, IDE JetBrains, Radis, RabbitMQ, Nginx, Beautiful Soup, Kafka, Kubernetes, Portainer, CI/CD, AWS, Sentry, Grafana and so on </p>
+<p align="left"> - Git, Git Flow, Docker, IDE JetBrains, Radis, RabbitMQ, Nginx, Beautiful Soup, Kafka, Kubernetes, Portainer, CI/CD, AWS, Sentry, Grafana, RStudio and so on </p>
