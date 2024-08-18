@@ -25,7 +25,7 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nikita.g08/" height="30" width="40">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 
 #### Front-end:
 - **Languages**: HTML | CSS | JavaScript | TypeScript
