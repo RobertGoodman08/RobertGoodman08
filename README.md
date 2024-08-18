@@ -40,7 +40,7 @@
 
 #### Data Analysis:
 - **Languages**: Python | R
-- **Libraries/Tools**: NumPy | Pandas | Matplotlib | SymPy
+- **Libraries/Tools**: NumPy | Pandas | Matplotlib | SymPy | Jupyter Notebook | Anaconda
 
 #### Data Parsing:
 - **Languages**: Python 
@@ -61,9 +61,10 @@
 - **Containerization/Orchestration**: Docker | Kubernetes | Portainer
 - **CI/CD & Automation**: Ansible | CI/CD | AWS
 - **Web Servers**: Nginx
-- **Messaging & Queueing**: Redis | RabbitMQ | Kafka
+- **Messaging & Queueing**: Redis | RabbitMQ | Apache Kafka
+- **Deployment & Hosting**: Heroku
 - **Monitoring & Logging**: Sentry | Grafana
-- **Development Tools**: IDE JetBrains | RStudio | Visual Studio Code 
+- **Development Tools**: IDE JetBrains | RStudio | Visual Studio Code | Postman 
 - **Project Management & Design**: Jira | YouTrack | Figma
 
 #### SEO:
