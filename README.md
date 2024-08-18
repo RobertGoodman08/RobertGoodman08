@@ -26,11 +26,44 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> - <b>Front-end</b> : HTML | CSS | JavaScript | TypeScript | React | Redux | Next.js | Bootstrap  </p>
-<p align="left"> - <b>Back-end</b> : Python | Django | Flask | Django rest framework | Golang | Gin | GORM | PHP | Laravel | Сelery | SQLAlchemy | Pydantic | FastAPI | GraphQL | Alembic | gRPC | WebSocket | Pytest   </p>
-<p align="left"> - <b>Bot</b> : Telebot | Aiogram | Selenium | InstaPy | Discord.py </p>
-<p align="left"> - <b>Data analysis</b> : Python | NumPy | Pandas | Matplotlib | SymPy | R </p>
-<p align="left"> - <b>Mobile</b> : React Native | Expo </p>
-<p align="left"> - <b>Database</b> : PostgreSQL | MySQL | Firebase | SQLite | MariaDB | MongoDB | Clickhouse | Elasticsearch </p>
-<p align="left"> - <b>OS</b> : Windows | Linux | FreeBSD </p>
-<p align="left"> - Git, Git Flow, GitLab, Docker, IDE JetBrains, Radis, RabbitMQ, Nginx, Beautiful Soup, Kafka, Kubernetes, Portainer, Ansible, CI/CD, AWS, Sentry, Grafana, RStudio, Jira, YouTrack, Figma and so on </p>
+#### Front-end:
+- **Languages**: HTML | CSS | JavaScript | TypeScript
+- **Libraries/Frameworks**: React | Redux | Next.js | Bootstrap
+
+#### Back-end:
+- **Languages**: Python | Golang | PHP
+- **Frameworks/Libraries**:  Django | Flask | Django rest framework | Gin | GORM | Laravel | Eloquent ORM | Сelery | SQLAlchemy | Pydantic | FastAPi | GraphQL | Alembic | gRPC | WebSocket | Pytest  
+
+#### Bot Development:
+- **Frameworks/Libraries**: Telebot | Aiogram | Selenium | InstaPy | Discord.py
+
+#### Data Analysis:
+- **Languages**: Python | R
+- **Libraries/Tools**: NumPy | Pandas | Matplotlib | SymPy
+
+#### Data Parsing:
+- **Languages**: Python 
+- **Frameworks/Libraries**: Beautiful Soup | Requests
+
+#### Mobile Development:
+- **Frameworks**: React Native | Expo
+
+#### Databases:
+- **RDBMS**: PostgreSQL | MySQL | SQLite | MariaDB
+- **NoSQL/Other**: Firebase | MongoDB | Clickhouse | Elasticsearch
+
+#### Operating Systems:
+- **OS**: Windows | Linux | FreeBSD
+
+#### DevOps and Tools:
+- **Version Control**: Git | GitHub | Git Flow | GitLab
+- **Containerization/Orchestration**: Docker | Kubernetes | Portainer
+- **CI/CD & Automation**: Ansible | CI/CD | AWS
+- **Web Servers**: Nginx
+- **Messaging & Queueing**: Redis | RabbitMQ | Kafka
+- **Monitoring & Logging**: Sentry | Grafana
+- **Development Tools**: IDE JetBrains | RStudio | Visual Studio Code 
+- **Project Management & Design**: Jira | YouTrack | Figma
+
+#### SEO:
+- **Tools**: Screaming Frog SEO Spider
