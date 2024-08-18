@@ -50,6 +50,7 @@
 - **Frameworks**: React Native | Expo
 
 #### Databases:
+- **Languages**: SQL
 - **RDBMS**: PostgreSQL | MySQL | SQLite | MariaDB
 - **NoSQL/Other**: Firebase | MongoDB | Clickhouse | Elasticsearch
 
