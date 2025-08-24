@@ -59,8 +59,9 @@
 
 #### DevOps and Tools:
 - **Version Control**: Git | GitHub | Git Flow | GitLab
-- **Containerization/Orchestration**: Docker | Kubernetes | Portainer
-- **CI/CD & Automation**: Ansible | CI/CD | AWS
+- **Containerization/Orchestration**: Docker | Kubernetes | Portainer | Helm
+- **Infrastructure as Code (IaC)**: Terraform | Ansible
+- **CI/CD & Automation**: CI/CD | AWS
 - **Web Servers**: Nginx
 - **Messaging & Queueing**: Redis | RabbitMQ | Apache Kafka
 - **Deployment & Hosting**: Heroku
