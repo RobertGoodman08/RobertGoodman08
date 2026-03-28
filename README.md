@@ -68,6 +68,7 @@
 - **Monitoring & Logging**: Sentry | Grafana | Dozzle
 - **Development Tools**: IDE JetBrains | RStudio | Visual Studio Code | Postman 
 - **Project Management & Design**: Jira | YouTrack | Figma
+- **Authentication & Authorization**: Keycloak
 
 #### SEO:
 - **Tools**: Screaming Frog SEO Spider
