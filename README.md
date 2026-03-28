@@ -65,7 +65,7 @@
 - **Web Servers**: Nginx
 - **Messaging & Queueing**: Redis | RabbitMQ | Apache Kafka
 - **Deployment & Hosting**: Heroku
-- **Monitoring & Logging**: Sentry | Grafana
+- **Monitoring & Logging**: Sentry | Grafana | Dozzle
 - **Development Tools**: IDE JetBrains | RStudio | Visual Studio Code | Postman 
 - **Project Management & Design**: Jira | YouTrack | Figma
 
