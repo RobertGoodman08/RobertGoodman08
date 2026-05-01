@@ -33,7 +33,7 @@
 
 #### Back-end:
 - **Languages**: Python | Golang | PHP
-- **Frameworks/Libraries**:  Django | Flask | Django rest framework | Gin | GORM | Laravel | Eloquent ORM | Сelery | SQLAlchemy | Pydantic | FastAPi | GraphQL | Alembic | gRPC | WebSocket | Pytest  
+- **Frameworks/Libraries**:  Django | Flask | Django rest framework | Gin | GORM | Laravel | Eloquent ORM | Сelery | SQLAlchemy | Pydantic | FastAPi | GraphQL | Alembic | gRPC | WebSocket | Pytest  | Playwright
 
 #### Bot Development:
 - **Frameworks/Libraries**: Telebot | Aiogram | Selenium | InstaPy | Discord.py
