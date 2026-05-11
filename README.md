@@ -11,7 +11,7 @@
 
 
 
-- 📫 How to reach me **ni.gurov@mail.ru**
+- 📲 How to reach me **[@pyjsgo](https://t.me/pyjsgo)**
 -  I accept proposals for participation in open source projects.
 
 
@@ -28,6 +28,11 @@
     <td>
       <a href="https://www.instagram.com/nikita.g08/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://t.me/pyjsgo" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40"/>
       </a>
     </td>
   </tr>
