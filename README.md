@@ -11,7 +11,7 @@
 
 
 
--  How to reach me **[@pyjsgo](https://t.me/pyjsgo)**
+-  Reach me on Telegram: **[@pyjsgo](https://t.me/pyjsgo)**
 -  I accept proposals for participation in open source projects.
 
 
