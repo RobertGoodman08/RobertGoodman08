@@ -71,7 +71,7 @@
 - **NoSQL/Other**: Firebase | MongoDB | Clickhouse | Elasticsearch
 
 #### Operating Systems:
-- **OS**: Windows | Linux | FreeBSD
+- **OS**: Windows | Linux | FreeBSD | macOS
 
 #### DevOps and Tools:
 - **Version Control**: Git | GitHub | Git Flow | GitLab
@@ -80,11 +80,8 @@
 - **CI/CD & Automation**: CI/CD | AWS
 - **Web Servers**: Nginx
 - **Messaging & Queueing**: Redis | RabbitMQ | Apache Kafka
-- **Deployment & Hosting**: Heroku
 - **Monitoring & Logging**: Sentry | Grafana | Dozzle
-- **Development Tools**: IDE JetBrains | RStudio | Visual Studio Code | Postman 
-- **Project Management & Design**: Jira | YouTrack | Figma
-- **Authentication & Authorization**: Keycloak
+- **Authentication & Authorization**: Keycloak | LDAP
 
 #### SEO:
 - **Tools**: Screaming Frog SEO Spider
