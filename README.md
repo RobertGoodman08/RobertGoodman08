@@ -81,7 +81,7 @@
 - **Web Servers**: Nginx
 - **Messaging & Queueing**: Redis | RabbitMQ | Apache Kafka
 - **Monitoring & Logging**: Sentry | Grafana | Dozzle
-- **Authentication & Authorization**: Keycloak | LDAP
+- **Authentication & Authorization**: Keycloak
 
 #### SEO:
 - **Tools**: Screaming Frog SEO Spider
