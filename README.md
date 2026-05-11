@@ -18,25 +18,20 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nikita-gurov-6a03a8229/" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="LinkedIn" 
-      width="40" 
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/nikita.g08/" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-      alt="Instagram" 
-      width="40" 
-      height="40"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/nikita-gurov-6a03a8229/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/nikita.g08/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Tech Stack:</h3>
 
