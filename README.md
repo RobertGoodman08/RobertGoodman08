@@ -62,6 +62,9 @@
 #### Mobile Development:
 - **Frameworks**: React Native | Expo
 
+#### Desktop Development:
+- **Frameworks**: Electron | Qt | Tkinter
+
 #### Databases:
 - **Languages**: SQL
 - **RDBMS**: PostgreSQL | MySQL | SQLite | MariaDB
